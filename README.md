@@ -1,1 +1,1 @@
-# Handwritten-digit-recognition-for-Kaggle-Compition
+# Handwritten-digit-recognition-for-Kaggle-Compitition
